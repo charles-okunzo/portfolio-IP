@@ -32,10 +32,23 @@ nav{
   width: auto;
   object-fit: cover;
 }
-.my-name hr{
+hr.divider{
   width: 75%;
+  height: 3px;
+  color: rgb(109, 213, 250);
 }
 
 .my-name{
   font-family: 'Poppins', sans-serif;
+}
+.card{
+  background-color: #203a5c;
+}
+
+.services h1{
+  color: #071e3d;
+}
+
+.cardContainer{
+  background-color: #fff;
 }
