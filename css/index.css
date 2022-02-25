@@ -1,0 +1,21 @@
+body{
+  background-color: #071e3d;
+
+   
+}
+
+nav{
+  background: linear-gradient(to right, rgb(41, 128, 185), rgb(109, 213, 250), rgb(255, 255, 255));
+}
+
+.logo{
+  color: #fff;
+}
+
+#navbarText a{
+  color: #000;
+}
+
+#navbarText ul{
+  text-align: center;
+}
