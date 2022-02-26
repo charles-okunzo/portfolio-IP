@@ -21,3 +21,11 @@ portfolioBtn.onclick=()=>{
 
   portfolio.scrollIntoView();
 }
+
+const aboutBtn=document.getElementById("aboutBtn");
+
+aboutBtn.onclick=()=>{
+  var about=document.getElementById("about");
+
+  about.scrollIntoView();
+}
