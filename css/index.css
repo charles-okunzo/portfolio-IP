@@ -72,7 +72,24 @@ hr.divider{
 
 .contacts p{
   color: #071e3d;
+  font-family: 'Poppins', sans-serif;
 }
-.fa-location-dot{
+
+.fa-solid, .fa-slack{
+  font-size: 1.3rem;
+}
+
+.fa-at{
+  font-size: 0.8rem;
+}
+.fa-location-dot, .fa-phone, .fa-envelope, .fa-at, .fa-slack{
   color: #071e3d;
+}
+
+.mor:hover{
+  color: rgb(104, 205, 241)!important;
+}
+
+.ku:hover{
+  color: rgb(104, 205, 241) !important;
 }
