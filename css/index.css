@@ -52,6 +52,16 @@ hr.divider{
 .cardContainer{
   background-color: #fff;
 }
+
 .my-descpn{
   font-family: 'Poppins', sans-serif;
+}
+
+.aboutCont h1,.aboutCont h2{
+  color: #071e3d !important;
+}
+
+.muted{
+ background-color: #2f5280;
+  
 }
