@@ -38,8 +38,8 @@ hr.divider{
   color: rgb(109, 213, 250);
 }
 
-.my-name{
-  font-family: 'Poppins', sans-serif;
+#my-name{
+  font-family: 'BhuTuka Expanded One', cursive;
 }
 .card{
   background-color: #203a5c;
@@ -51,4 +51,7 @@ hr.divider{
 
 .cardContainer{
   background-color: #fff;
+}
+.my-descpn{
+  font-family: 'Poppins', sans-serif;
 }
