@@ -13,3 +13,11 @@ servicesBtn.onclick=()=>{
 
   services.scrollIntoView();
 };
+
+const portfolioBtn= document.getElementById("portfolioBtn");
+
+portfolioBtn.onclick=()=>{
+  var portfolio=document.getElementById("portfolio");
+
+  portfolio.scrollIntoView();
+}
