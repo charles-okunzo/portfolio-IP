@@ -91,5 +91,20 @@ hr.divider{
 }
 
 .ku:hover{
-  color: rgb(104, 205, 241) !important;
+  color: rgb(16, 191, 255) !important;
+}
+
+.fa-arrow-up{
+  font-size: 2rem;
+}
+
+#scrollBtn{
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+
+i#scrollBtn{
+  color: #ff304f;
+  cursor: pointer;
 }
