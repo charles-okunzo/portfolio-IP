@@ -29,3 +29,11 @@ aboutBtn.onclick=()=>{
 
   about.scrollIntoView();
 }
+
+const contactBtn=document.getElementById("contactBtn");
+
+contactBtn.onclick= ()=>{
+  contact=document.getElementById("contact");
+
+  contact.scrollIntoView();
+}
