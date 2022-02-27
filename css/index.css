@@ -122,3 +122,9 @@ a.navbar-brand{
   font-family: 'Shadows Into Light', cursive;
   font-size: 1.3rem;
 }
+
+@media only screen and (min-width:748px){
+  .burner{
+    height: 100vh;
+  }
+}
