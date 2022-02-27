@@ -39,7 +39,7 @@ hr.divider{
 }
 
 #my-name{
-  font-family: 'BhuTuka Expanded One', cursive;
+  font-family: 'Poppins', sans-serif;
 }
 .card{
   background-color: #203a5c;
@@ -107,4 +107,18 @@ hr.divider{
 i#scrollBtn{
   color: #ff304f;
   cursor: pointer;
+}
+
+span.change-colour{
+  color: #ff304f;
+}
+
+a.navbar-brand{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 2rem;
+}
+
+.footer-brands{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 1.3rem;
 }
