@@ -94,7 +94,7 @@ hr.divider{
   color: rgb(16, 191, 255) !important;
 }
 
-.fa-arrow-up{
+.fa-circle-arrow-up{
   font-size: 2rem;
 }
 
@@ -121,6 +121,18 @@ a.navbar-brand{
 .footer-brands{
   font-family: 'Shadows Into Light', cursive;
   font-size: 1.3rem;
+}
+
+.quote p, .quote h3{
+  color: #071e3d !important;
+}
+
+sup i{
+  color: #ff304f;
+}
+
+figure{
+  background-color: #c4c4c4;
 }
 
 @media only screen and (min-width:748px){
