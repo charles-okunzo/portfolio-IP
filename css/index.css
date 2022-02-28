@@ -51,9 +51,9 @@ hr.divider{
   color: rgb(109, 213, 250);
 }
 
-#my-name{
+/* #my-name{
   font-family: 'Poppins', sans-serif;
-}
+} */
 .card{
   background-color: #203a5c;
 }
@@ -66,8 +66,68 @@ hr.divider{
   background-color: #fff;
 }
 
+.content-type{
+  display: inline-block;
+}
+
 .my-descpn{
   font-family: 'Poppins', sans-serif;
+  
+}
+
+.my-animation{
+  overflow: hidden;
+  border-right: .18rem solid #ff304f;
+  white-space: nowrap;
+  animation: typingDesp 3s steps(20,end) forwards;
+  width: 0;
+}
+
+@keyframes typingDesp{
+  from{ width: 0%}
+  to{width: 100%}
+}
+
+
+@keyframes blinking{
+  from{border-color: #ff304f;}
+  to{border-color: transparent;}
+}
+
+.my-animation1{
+  overflow: hidden;
+  border-right: .16rem solid #ff304f;
+  white-space: nowrap;
+  animation: typingDesp 3s steps(20,end) forwards;
+  width: 0;
+  animation-delay: 3.5s;
+}
+
+.my-animation2{
+  overflow: hidden;
+  border-right: .16rem solid #ff304f;
+  white-space: nowrap;
+  animation: typingDesp 3s steps(20,end) forwards;
+  width: 0;
+  animation-delay: 7s;
+}
+
+.my-animation3{
+  overflow: hidden;
+  border-right: .16rem solid #ff304f;
+  white-space: nowrap;
+  animation: typingDesp 3s steps(20,end) forwards;
+  width: 0;
+  animation-delay: 10.5s;
+}
+
+.my-animation4{
+  overflow: hidden;
+  border-right: .16rem solid #ff304f;
+  white-space: nowrap;
+  animation: typingDesp 3s steps(20,end) forwards, blinking 1s infinite;
+  width: 0;
+  animation-delay: 14s;
 }
 
 .aboutCont h1,.aboutCont h2{
