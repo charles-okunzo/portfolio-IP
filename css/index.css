@@ -130,6 +130,9 @@ hr.divider{
   animation-delay: 14s;
 }
 
+img.my-image{
+  border-radius: 100% !important;
+}
 .aboutCont h1,.aboutCont h2{
   color: #071e3d !important;
 }
