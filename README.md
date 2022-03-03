@@ -14,7 +14,7 @@
 ## Description
 
 This website shows a description of my resume including services I offer, academic background, skills and hobbies and my contact information.
-![Portfolio Landing page](images/Screenshot from 2022-03-03 18-20-13.png)
+![Portfolio Landing page](images/Screenshot-from-2022-03-03-18-20-13.png)
 
 ## Installation 
 ### Requirements
